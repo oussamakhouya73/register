@@ -1,0 +1,10 @@
+{
+  "subdomain": "tiksave",
+  "domain": "is-app.top",
+  "email_or_discord": "nathanielvoss0@gmail.com",
+  "github_username": "oussamakhouya73",
+  "description": "TikSave, a web software project for downloading videos that users own or are authorized to download.",
+  "records": {
+    "CNAME": ["cosmic-zephyr-9815.route.uday.me"]
+  }
+}
